@@ -1,0 +1,10 @@
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\bin\Debug\netcoreapp3.1\PesquisaDB.deps.json
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\bin\Debug\netcoreapp3.1\PesquisaDB.dll
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\bin\Debug\netcoreapp3.1\PesquisaDB.pdb
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\obj\Debug\netcoreapp3.1\PesquisaDB.csproj.AssemblyReference.cache
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\obj\Debug\netcoreapp3.1\PesquisaDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\obj\Debug\netcoreapp3.1\PesquisaDB.AssemblyInfoInputs.cache
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\obj\Debug\netcoreapp3.1\PesquisaDB.AssemblyInfo.cs
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\obj\Debug\netcoreapp3.1\PesquisaDB.csproj.CoreCompileInputs.cache
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\obj\Debug\netcoreapp3.1\PesquisaDB.dll
+C:\Users\paloma.asantos17\source\repos\PesquisaDB\obj\Debug\netcoreapp3.1\PesquisaDB.pdb
